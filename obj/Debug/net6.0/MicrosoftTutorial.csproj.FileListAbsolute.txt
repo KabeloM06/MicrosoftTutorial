@@ -1,0 +1,15 @@
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\bin\Debug\net6.0\MicrosoftTutorial.exe
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\bin\Debug\net6.0\MicrosoftTutorial.deps.json
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\bin\Debug\net6.0\MicrosoftTutorial.runtimeconfig.json
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\bin\Debug\net6.0\MicrosoftTutorial.dll
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\bin\Debug\net6.0\MicrosoftTutorial.pdb
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.csproj.AssemblyReference.cache
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.AssemblyInfoInputs.cache
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.AssemblyInfo.cs
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.csproj.CoreCompileInputs.cache
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.dll
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\refint\MicrosoftTutorial.dll
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.pdb
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\MicrosoftTutorial.genruntimeconfig.cache
+C:\Users\kmpre\Desktop\web dev\CSharp\MicrosoftTutorial\obj\Debug\net6.0\ref\MicrosoftTutorial.dll
